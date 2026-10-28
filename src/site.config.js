@@ -16,12 +16,12 @@ export default {
     "cms"
   ],
   "palette": {
-    "paper": "248 246 239",
-    "paper2": "239 242 232",
-    "ink": "25 55 46",
-    "volt": "216 181 121",
-    "blaze": "31 75 57",
-    "muted": "82 101 88"
+    "paper": "248 245 238",
+    "paper2": "248 235 211",
+    "ink": "23 38 31",
+    "volt": "245 158 11",
+    "blaze": "31 77 58",
+    "muted": "95 104 97"
   },
   "hero": {
     "eyebrow": "Software people who stay for the build",
